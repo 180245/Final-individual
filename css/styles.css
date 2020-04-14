@@ -2,7 +2,7 @@
 
 body {
 	background-color: #076797;
-	color:#3E3E3E
+	color: #000000; 
 }
 
 img {
@@ -17,7 +17,7 @@ img {
     font-size: x-large;
 }
 
-p2 {
+p {
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
     font-variant: normal;
     font-weight: bold;
@@ -32,6 +32,13 @@ h1 {
     font-size: large;
 }
 
+h4 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-variant: normal;
+    font-weight: bold;
+    font-size: large;
+    color:#FFFFFF;
+}
 
 h5 {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
@@ -42,25 +49,10 @@ h5 {
 }
 
 h6 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-    font-variant: normal;
-    font-weight: bold;
-    font-size: large;
-    color: #FFFFFF;
-}
-
-h7 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-    font-variant: normal;
-    font-weight: bold;
-    font-size: large;
-    color: #FFFFFF;
-}
-
-h8 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	font-variant: normal;
 	font-weight: bolder;
 	font-size: large; 
+	color: #000000;
 	
 }
